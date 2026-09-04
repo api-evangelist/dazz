@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://dazz.io', status: 301, note: 'declared website redirects to https://www.wiz.io/blog/wiz-to-acquire-dazz-transforming-risk-remediation-from-cloud-to-code — a different registrable domain (dazz.io -> wiz.io), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/dazz.png
 name: Dazz
 description: 'Dazz is a cloud security company specializing in Application Security
